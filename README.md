@@ -1,4 +1,4 @@
-# cognates_en_es
+# English-Spanish cognates
 This is a list of Spanish-English cognate words. It was collected from the following websites:
 
 http://nlp.cs.berkeley.edu/projects/historical.shtml;
